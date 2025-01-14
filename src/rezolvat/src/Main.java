@@ -1,9 +1,9 @@
-package modelRezolvat.src;
+package rezolvat.src;
 
-import modelRezolvat.src.controller.ShopController;
-import modelRezolvat.src.repository.CustomerRepository;
-import modelRezolvat.src.repository.ProductRepository;
-import modelRezolvat.src.view.ConsoleView;
+import rezolvat.src.controller.ShopController;
+import rezolvat.src.repository.CustomerRepository;
+import rezolvat.src.repository.ProductRepository;
+import rezolvat.src.view.ConsoleView;
 
 
 public class Main {

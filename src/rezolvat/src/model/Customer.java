@@ -1,4 +1,4 @@
-package modelRezolvat.src.model;
+package rezolvat.src.model;
 
 import java.util.List;
 

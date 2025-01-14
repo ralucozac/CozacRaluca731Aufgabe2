@@ -1,10 +1,8 @@
-package modelRezolvat.src.view;
+package rezolvat.src.view;
 
-import modelRezolvat.src.controller.ShopController;
-import modelRezolvat.src.model.Customer;
-import modelRezolvat.src.model.Product;
+import rezolvat.src.controller.ShopController;
+import rezolvat.src.model.Product;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 

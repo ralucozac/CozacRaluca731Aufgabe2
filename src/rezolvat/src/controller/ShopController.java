@@ -1,11 +1,11 @@
-package modelRezolvat.src.controller;
+package rezolvat.src.controller;
 
 
 
-import modelRezolvat.src.model.Customer;
-import modelRezolvat.src.model.Product;
-import modelRezolvat.src.repository.CustomerRepository;
-import modelRezolvat.src.repository.ProductRepository;
+import rezolvat.src.model.Customer;
+import rezolvat.src.model.Product;
+import rezolvat.src.repository.CustomerRepository;
+import rezolvat.src.repository.ProductRepository;
 
 import java.util.List;
 

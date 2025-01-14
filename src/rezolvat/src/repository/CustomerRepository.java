@@ -1,8 +1,8 @@
-package modelRezolvat.src.repository;
+package rezolvat.src.repository;
 
 
 
-import modelRezolvat.src.model.Customer;
+import rezolvat.src.model.Customer;
 
 import java.util.ArrayList;
 import java.util.List;

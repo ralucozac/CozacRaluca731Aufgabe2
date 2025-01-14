@@ -1,4 +1,4 @@
-package modelRezolvat.src.model;
+package rezolvat.src.model;
 
 public class Product {
     private String name;
